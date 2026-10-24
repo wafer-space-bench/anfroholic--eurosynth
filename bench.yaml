@@ -12,12 +12,12 @@ tapeouts:
   project: EuroSynth
   size: 1x0p5
   kind: digital + artwork
-  commit: 606cb4d8cd1e
+  commit: dd3c940af844
   commit_source: design_ref head recorded by the ws-run1/2 audit
   tag: wafer.space/ws-run2/EURO
   branch: tapeout/wafer.space/ws-run2/EURO
   page: https://wafer.space/ws-run2/
-generated: '2026-10-17T23:07:09Z'
+generated: '2026-10-24T08:10:39Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
 index: https://wafer-space-bench.github.io
 branches:

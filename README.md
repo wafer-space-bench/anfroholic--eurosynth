@@ -12,7 +12,7 @@ Part of the [wafer.space GF180 benchmark](https://wafer-space-bench.github.io): 
 
 | Org | Run | Slot | Project | Size | Commit | Tag / branch |
 |---|---|---|---|---|---|---|
-| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | EURO | EuroSynth | 1x0p5 | `606cb4d8cd1e` | [`wafer.space/ws-run2/EURO`](https://github.com/wafer-space-bench/anfroholic--eurosynth/tree/tapeout/wafer.space/ws-run2/EURO) |
+| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | EURO | EuroSynth | 1x0p5 | `dd3c940af844` | [`wafer.space/ws-run2/EURO`](https://github.com/wafer-space-bench/anfroholic--eurosynth/tree/tapeout/wafer.space/ws-run2/EURO) |
 
 ## Branches
 
